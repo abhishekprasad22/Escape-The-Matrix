@@ -1,15 +1,15 @@
 .matrix {
     display: grid;
-    grid-template-columns: repeat(3, 100px);
-    grid-template-rows: repeat(3, 100px);
+    grid-template-columns: repeat(3, 150px);
+    grid-template-rows: repeat(3, 150px);
     gap: 5px;
   }
   
   .box {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-color: lightgray;
-    border: 1px solid #000;
+    border: 2px solid #000;
     cursor: pointer;
   }
   
