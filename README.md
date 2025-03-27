@@ -2,11 +2,11 @@
 
 Escape the Matrix is a simple React application where users can click on boxes in a 3x3 grid. Once all boxes are clicked, they change color in the order they were clicked.
 
-## Demo Video
+## Live Project
 
-Watch the demo video 
+Click the image below to check out the live project.
 
-[![image](https://github.com/user-attachments/assets/f583be4b-eb67-4dea-a2ed-f93f5b45395d)](https://youtu.be/BlS-gbeBiF0?si=JkiQF0lRwoVEC__F)
+[![image](https://github.com/user-attachments/assets/f583be4b-eb67-4dea-a2ed-f93f5b45395d)](https://escape-the-matrix-olive.vercel.app/)
 
 ## Features
 
